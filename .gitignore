@@ -1,0 +1,13 @@
+
+#ignore folders
+./target/
+
+#ignore HTML file extensions
+*.html
+
+#ignore class files
+*.class
+
+#ignore log files
+*.log
+/target/
